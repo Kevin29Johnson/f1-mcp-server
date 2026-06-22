@@ -137,4 +137,4 @@ F1-MCP-Server/
 
 ---
 
-Built by [Kevin Johnson](https://github.com/kevinjohnson) · Powered by [OpenF1](https://openf1.org) · Built with [MCP](https://modelcontextprotocol.io)
+Built by [Kevin Johnson](https://github.com/Kevin29Johnson) · Powered by [OpenF1](https://openf1.org) · Built with [MCP](https://modelcontextprotocol.io)
