@@ -1,0 +1,24 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# uv
+.python-version
+uv.lock
+
+# Notes file (runtime generated)
+notes.txt
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
